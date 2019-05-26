@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 3dca3e4d3fc7c42de92f257b6f3f1a52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6193368844029737685
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_0
+  - first:
+      213: -4760219772828123487
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_1
+  - first:
+      213: 3525964870106711071
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_2
+  - first:
+      213: -983505539803313161
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_3
+  - first:
+      213: 4685801089943519931
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_4
+  - first:
+      213: 5831816203863164013
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_5
+  - first:
+      213: 6228188367543669065
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_6
+  - first:
+      213: -138151725409088179
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_7
+  - first:
+      213: -2941774820809602554
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_8
+  - first:
+      213: -2782452947710246919
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_9
+  - first:
+      213: 2616736204491726013
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_10
+  - first:
+      213: -721236380568721420
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_11
+  - first:
+      213: -5005613769773871649
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_12
+  - first:
+      213: -4856362487600251875
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_13
+  - first:
+      213: 2406776323862735134
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_14
+  - first:
+      213: -908829322702301828
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_15
+  - first:
+      213: -6325661451292389704
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_16
+  - first:
+      213: 8905029098523911754
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_17
+  - first:
+      213: 4748912768843508950
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_18
+  - first:
+      213: 6511822290786241271
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_19
+  - first:
+      213: -7503599366381199100
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_20
+  - first:
+      213: 4904167128248018071
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_21
+  - first:
+      213: 3278511866438844711
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_22
+  - first:
+      213: 8229406810851136621
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_23
+  - first:
+      213: 1894668654432409696
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_24
+  - first:
+      213: -4385843368073554888
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_25
+  - first:
+      213: -1577983450939961966
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_26
+  - first:
+      213: 2893479769983424279
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_27
+  - first:
+      213: -3892113404807369799
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_28
+  - first:
+      213: -130087241072410225
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_29
+  - first:
+      213: 8773079776740911897
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_30
+  - first:
+      213: 7240082323544026651
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_31
+  - first:
+      213: -5475593760731809170
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_32
+  - first:
+      213: 6405074027738343779
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_33
+  - first:
+      213: 3871635991325837729
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_34
+  - first:
+      213: 3630334886831803771
+    second: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1841
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2fc9762f6c34f4487f8b8ff2af6ac1
+      internalID: 6193368844029737685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1841
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a47ffdc68fa4e73a41671595495901
+      internalID: -4760219772828123487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1841
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b24b75300948beb6f14fde9855fc3
+      internalID: 3525964870106711071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1841
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded00c018e1cb4e9cb147fa5f5b797c7
+      internalID: -983505539803313161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1636
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444efe07036984946a80f344898b271b
+      internalID: 4685801089943519931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1636
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3461fe0dc0012469b9669ed4d1df50da
+      internalID: 5831816203863164013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1636
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aefc3f7b514c48b4a1838b0d118f269
+      internalID: 6228188367543669065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1636
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26ef5b744714eec819a8e0fb3d3ca0
+      internalID: -138151725409088179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1431
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6de0cca2ab44d5a18dd3d9da9f901
+      internalID: -2941774820809602554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1431
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d57ea1e5314d4e9abfee7543aa506
+      internalID: -2782452947710246919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1431
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e551bbdd03444f9ed9c8e5182f7fb
+      internalID: 2616736204491726013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1431
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcb05cbb0b5e42289c8df50e1e8ca68
+      internalID: -721236380568721420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1226
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ee040d3ea242f492907d6f055ff8a
+      internalID: -5005613769773871649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1226
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08bbcbfea1a14c1e973f006115efe4e
+      internalID: -4856362487600251875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1226
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1943b1e9af4e53aac9a5f4aaa43c8
+      internalID: 2406776323862735134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_15
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1226
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3fc6a3f26c046e58da8c622bec1ec2
+      internalID: -908829322702301828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1021
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6c5eba540c4e6081cc167a5db38a6
+      internalID: -6325661451292389704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1021
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef657acdb729a4a18919358de0bcae9f
+      internalID: 8905029098523911754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1021
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2003cb4f9147209dbeead6b574d5f
+      internalID: 4748912768843508950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_19
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1021
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91273ab77389446bbbf0f54ce062682e
+      internalID: 6511822290786241271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 816
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5b36463d944d8d9f99da81bb9887d
+      internalID: -7503599366381199100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 816
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b105f795f44168a18331a5c8cf0eb
+      internalID: 4904167128248018071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 816
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efba86c9c7954971bdc625bf8378b14
+      internalID: 3278511866438844711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 816
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af55ab2a7784d4a0e8beba2c462efc08
+      internalID: 8229406810851136621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 611
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ffed7d68acb4405826c37f887af48c
+      internalID: 1894668654432409696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 611
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f429b7ac89e244f3ca1a2266419af89d
+      internalID: -4385843368073554888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 611
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbdc382e3d894c68983cf1465480245
+      internalID: -1577983450939961966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_27
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 611
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5474e6fa7bc422d975e510ea9fab4a
+      internalID: 2893479769983424279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 406
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3947b1d28df3422d8d33a13a28373fa
+      internalID: -3892113404807369799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 406
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b442019f80a2492688f19762d0baf86
+      internalID: -130087241072410225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 406
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5d46e9c19974643a6c7eacc8f42ad1
+      internalID: 8773079776740911897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_31
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 406
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b442c9dc6944e4094aad8a80f37efd
+      internalID: 7240082323544026651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 201
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ab38d2df034bc8b346984aac3a783
+      internalID: -5475593760731809170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 201
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6629d07b031347f59e19c31331912f2
+      internalID: 6405074027738343779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 201
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7493f629715a74932a3361d813f1f319
+      internalID: 3871635991325837729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - THE iDOLMSTER Cinderella Girls - Rin Shibuya_35
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 201
+        width: 205
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d1ec2f9a0943969a43e35f58b2ed7
+      internalID: 3630334886831803771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
