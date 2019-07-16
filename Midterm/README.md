@@ -3,4 +3,10 @@ Assignment 03
   - Left right
   - Jump
 - Enemy
-  - Destroy character if hit by enemy.
+  - Hit enemy will decrease health and mana
+- Item
+  - Collect item to get mana and health
+- Gold
+  - Collect gold to get score
+If character run out of health or energy, game over
+This game has 2 level, enter the door at the bottom right to go to new level
