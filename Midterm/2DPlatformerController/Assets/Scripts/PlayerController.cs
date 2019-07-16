@@ -50,4 +50,8 @@ public class PlayerController : PhysicsObject {
 
 		targetVelocity = move * maxSpeed;
 	}
+
+	public void destroy() {
+		Destroy(gameObject);
+	}
 }

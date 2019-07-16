@@ -30,10 +30,9 @@ public class HealthController : MonoBehaviour
     	}
     }
 
-    void Update(){
+    public void Update(){
         healthBar.GetComponent<Transform>().localScale = new Vector3(health*1.0f/healthMax, 1,1);
         manaBar.GetComponent<Transform>().localScale = new Vector3(mana*1.0f/manaMax, 1,1);
-        
     }
 
     public void addHeath(int energy) {
@@ -48,5 +47,13 @@ public class HealthController : MonoBehaviour
         if(mana >= manaMax){
             mana = manaMax;
         }
+    }
+
+    public int returnHealth() {
+        return health;
+    }
+
+    public int returnMana() {
+        return mana;
     }
 }
